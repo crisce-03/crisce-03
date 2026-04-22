@@ -30,11 +30,22 @@
 
 <br clear="right">
 
-![crisce-03's github stats](https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=dark&text_color=ffffff)
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&icon_color=70a5fd" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=dark&currStreakLabel=ffffff" alt="mystreak"/>
-
-![crisce-03's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&theme=dark&text_color=ffffff&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&theme=tokyonight&layout=compact&title_color=ffffff&text_color=ffffff" alt="Top Langs" />
+</p>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝
