@@ -30,11 +30,11 @@
 
 <br clear="right">
 
-![crisce-03's github stats](https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=shadow_blue)
+![crisce-03's github stats](https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=dark&text_color=ffffff)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=shadow_blue" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=dark&currStreakLabel=ffffff" alt="mystreak"/>
 
-![crisce-03's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&theme=shadow_blue&layout=compact)
+![crisce-03's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&theme=dark&text_color=ffffff&layout=compact)
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝
