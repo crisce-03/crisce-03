@@ -30,6 +30,12 @@
 
 <br clear="right">
 
+![crisce-03's github stats](https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=shadow_blue)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=shadow_blue" alt="mystreak"/>
+
+![crisce-03's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&theme=shadow_blue&layout=compact)
+
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝
 </h3>
