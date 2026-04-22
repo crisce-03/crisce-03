@@ -75,7 +75,7 @@ Outside of technology, ⚽ I love playing football, 🎬 watching movies and ser
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
   <a href="https://github.com/crisce-03" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <a href="#" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+  <a href="https://www.instagram.com/crisce_03/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
   <a href="#" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/kick.png" width="40"></a>
   <a href="#" target="_blank"><img src="https://img.icons8.com/plasticine/40/resume.png"></a>
 </p>
