@@ -17,16 +17,26 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About me
 
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> Acerca de mí
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp4NnpmOXdnNHpsdml1eWM5M2NpMWkyZHVtM2NlejUwbmd1NmowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" align="right" width="250px">
 
-- 🎓 I am a `Computer Science Student` at **Universidad Católica de El Salvador (UNICAES)**.
-- 🚀 Working on **CriptoSV**, a platform for cryptocurrency insights.
-- 💇‍♂️ Developing a **Management System** for Michell's Beauty Salon.
-- 🧑‍💻 I love using Software as a solution for every `Problem`.
-- 📚 Currently mastering **Next.js, Go, and Supabase**.
-- 🐧 Proud **Linux user** (Ubuntu/Debian).
-- 🤔 I’m currently open for a **new job opportunity**.
-- 💥 You can visit my GitHub to see my latest repositories.
+Soy estudiante de **Ingeniería en Desarrollo de Software** en la **Universidad Católica de El Salvador (UNICAES)**. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y actualmente trabajo en proyectos innovadores como **CriptoSV** y un sistema de gestión para el **Salón de Belleza de Michell**. Me encanta aprender y construir algo nuevo, productivo, creativo y que genere impacto.
+
+🌱 **Actualmente estoy aprendiendo...**
+*   **Go** (Golang) para robustecer mi lógica de back-end.
+*   **React** y **Next.js** para crear interfaces modernas y rápidas.
+
+👯 Espero colaborar en **proyectos de código abierto**.
+✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte.
+
+Fuera de la tecnología, ⚽ me encanta jugar fútbol, 🎬 ver películas y series, 🎮 disfrutar de los videojuegos, 🎵 escuchar música y 📖 leer un buen libro.
+
+💜 Además, me gusta el mundo del **streaming en Kick** y compartir lo que voy aprendiendo, ¡así que no dudes en revisar mi perfil!
+
+📫 Comuníquese conmigo en: **cristophercerritos0@gmail.com**
+
+<br clear="right">
 
 <br clear="right">
 
