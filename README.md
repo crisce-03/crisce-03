@@ -31,16 +31,12 @@
 <br clear="right">
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&icon_color=70a5fd" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&icon_color=70a5fd" height="195px" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="195px" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&theme=tokyonight&layout=compact&title_color=ffffff&text_color=ffffff" alt="Top Langs" />
 </p>
 
 <p align="center">
