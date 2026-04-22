@@ -17,7 +17,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About me
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ4Z3J6ZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SXP6v5e49O0/giphy.gif" align="right" width="200px">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp4NnpmOXdnNHpsdml1eWM5M2NpMWkyZHVtM2NlejUwbmd1NmowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" align="right" width="250px">
 
 - 🎓 I am a `Junior` at [Suez Canal University](http://suez.edu.eg/ar/).
 - 🏆 2x `ACPC` Finalist.
