@@ -17,24 +17,22 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About me
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> Acerca de mí
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp4NnpmOXdnNHpsdml1eWM5M2NpMWkyZHVtM2NlejUwbmd1NmowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" align="right" width="250px">
 
-Soy estudiante de **Ingeniería en Desarrollo de Software** en la **Universidad Católica de El Salvador (UNICAES)**. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end, y actualmente trabajo en proyectos innovadores como **CriptoSV** y un sistema de gestión para el **Salón de Belleza de Michell**. Me encanta aprender y construir algo nuevo, productivo, creativo y que genere impacto.
+I am a **Software Development Engineering** student at the **Catholic University of El Salvador (UNICAES)**. I am currently expanding my knowledge in both front-end and back-end development, working on innovative projects such as **CriptoSV** and a management system for **Michell's Beauty Salon**. I love learning and building things that are new, productive, creative, and impactful.
 
-🌱 **Actualmente estoy aprendiendo...**
-*   **Go** (Golang) para robustecer mi lógica de back-end.
-*   **React** y **Next.js** para crear interfaces modernas y rápidas.
+🌱 **Currently learning...**
+*   **Go (Golang)** to strengthen my back-end logic.
+*   **React** and **Next.js** to build modern and fast interfaces.
 
-👯 Espero colaborar en **proyectos de código abierto**.
-✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte.
+👯 I am looking to collaborate on **Open Source projects**.
+✔ Ask me about anything, I'll be happy to help.
 
-Fuera de la tecnología, ⚽ me encanta jugar fútbol, 🎬 ver películas y series, 🎮 disfrutar de los videojuegos, 🎵 escuchar música y 📖 leer un buen libro.
+Outside of technology, ⚽ I love playing football, 🎬 watching movies and series, 🎮 playing video games, 🎵 listening to music, and 📖 reading books.
 
-💜 Además, me gusta el mundo del **streaming en Kick** y compartir lo que voy aprendiendo, ¡así que no dudes en revisar mi perfil!
+👾 Additionally, I enjoy the world of **streaming on Kick** and sharing what I learn, so feel free to check out my profile!
 
-📫 Comuníquese conmigo en: **cristophercerritos0@gmail.com**
+📫 Reach out to me at: **cristophercerritos0@gmail.com**
 
 <br clear="right">
 
