@@ -15,30 +15,20 @@
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"></picture> About me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About me
 
-<table>
-  <tr>
-    <td valign="top" width="75%">
-      <ul>
-        <li>🎓 I am a <code>Junior</code> at <a href="http://suez.edu.eg/ar/">Suez Canal University</a>.</li>
-        <li>🏆 2x <code>ACPC</code> Finalist.</li>
-        <li>🧑‍💻 I love using Software as a solution for every <code>Problem</code>.</li>
-        <li>💻 I am a competitive programmer at <code>Codeforces</code>, <code>Leetcode</code>, etc.</li>
-        <li>📚 I’m currently learning <code>Computer Science</code> and <code>Software Engineering</code>.</li>
-        <li>🤓 Always <code>learning new things</code>.</li>
-        <li>🤔 I’m currently open for a <b>new job opportunity</b>, this is <a href="http://lnkiy.in/Ahmed_Hossam_Resume">MY RESUME</a>.</li>
-        <li>💥 You can visit <a href="https://cutt.ly/Ahmed_Hossam_Website">MY WEBSITE</a>.</li>
-      </ul>
-    </td>
-    <td valign="center" width="25%">
-      <!-- Este GIF ya es transparente -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ4Z3J6ZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SXP6v5e49O0/giphy.gif" width="200px">
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ4Z3J6ZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eXp6ZzR6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SXP6v5e49O0/giphy.gif" align="right" width="200px">
 
-<br>
+- 🎓 I am a `Junior` at [Suez Canal University](http://suez.edu.eg/ar/).
+- 🏆 2x `ACPC` Finalist.
+- 🧑‍💻 I love using Software as a solution for every `Problem`.
+- 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, etc.
+- 📚 I’m currently learning `Computer Science` and `Software Engineering`.
+- 🤓 Always `learning new things`.
+- 🤔 I’m currently open for a **new job opportunity**, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- 💥 You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+
+<br clear="right">
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝
