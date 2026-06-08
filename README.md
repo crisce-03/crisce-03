@@ -72,7 +72,7 @@ Outside of technology, ⚽ I love playing football, 🎬 watching movies and ser
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight&cache_seconds=180](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight"/>
 </p>
 
 <h3 align="center">
