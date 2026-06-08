@@ -26,7 +26,7 @@ I have experience developing web and desktop applications using technologies suc
 ### 🚀 Current Projects
 
 - **Michells Beauty Salon** – Appointment and customer management platform.
-- **SIGVET** – Project University.
+- **SIGVET** – university project.
 
 ### 🌱 Currently Learning
 
