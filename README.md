@@ -15,29 +15,42 @@
 
 ---
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About Me
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp4NnpmOXdnNHpsdml1eWM5M2NpMWkyZHVtM2NlejUwbmd1NmowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" align="right" width="250px">
 
-I am a **Software Development Engineering** student at the **Catholic University of El Salvador (UNICAES)**. I am currently expanding my knowledge in both front-end and back-end development, working on innovative projects such as **CriptoSV** and a management system for **Michell's Beauty Salon**. I love learning and building things that are new, productive, creative, and impactful.
+I am a **Software Development Engineering student** at the **Catholic University of El Salvador (UNICAES)** with a strong interest in **Full Stack Development**, software architecture, and database design.
 
-🌱 **Currently learning...**
-*   **Go (Golang)** to strengthen my back-end logic.
-*   **React** and **Next.js** to build modern and fast interfaces.
+I have experience developing web and desktop applications using technologies such as **React, ASP.NET, Node.js, Express, Laravel, Java, C#, SQL Server, PostgreSQL, and MongoDB**.
 
-👯 I am looking to collaborate on **Open Source projects**.
-✔ Ask me about anything, I'll be happy to help.
+### 🚀 Current Projects
 
-Outside of technology, ⚽ I love playing football, 🎬 watching movies and series, 🎮 playing video games, 🎵 listening to music, and 📖 reading books.
+- **Michells Beauty Salon** – Appointment and customer management platform.
+- **SIGVET** – Veterinary management system.
+- **CriptoSV** – Cryptocurrency information platform.
 
-👾 Additionally, I enjoy the world of **streaming on Kick** and sharing what I learn, so feel free to check out my profile!
+### 🌱 Currently Learning
 
-📫 Reach out to me at: **cristophercerritos0@gmail.com**
+- Go (Golang)
+- Next.js
+- Software Architecture
+- Advanced Backend Development
+
+### 🎯 Professional Interests
+
+- Full Stack Development
+- Backend Engineering
+- Database Design
+- Web Application Development
+- Open Source Contributions
+
+### 📫 Contact
+
+- Email: **cristophercerritos0@gmail.com**
+- GitHub: **github.com/crisce-03**
 
 <br clear="right">
-
 <br clear="right">
-
 ## My Skills Include
 
 
