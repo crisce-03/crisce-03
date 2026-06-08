@@ -66,12 +66,13 @@ Outside of technology, ⚽ I love playing football, 🎬 watching movies and ser
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&icon_color=70a5fd" height="195px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="195px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&cache_seconds=1800" height="195px"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight" height="195px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&theme=tokyonight&layout=compact&title_color=ffffff&text_color=ffffff" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <h3 align="center">
