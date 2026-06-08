@@ -21,13 +21,12 @@
 
 I am a **Software Development Engineering student** at the **Catholic University of El Salvador (UNICAES)** with a strong interest in **Full Stack Development**, software architecture, and database design.
 
-I have experience developing web and desktop applications using technologies such as **React, ASP.NET, Node.js, Express, Laravel, Java, C#, SQL Server, PostgreSQL, and MongoDB**.
+I have experience developing web and desktop applications using technologies such as **React, ASP.NET, Node.js, Express, Laravel, Java, C#, SQL Server, PostgreSQL and Mysql**.
 
 ### 🚀 Current Projects
 
 - **Michells Beauty Salon** – Appointment and customer management platform.
-- **SIGVET** – Veterinary management system.
-- **CriptoSV** – Cryptocurrency information platform.
+- **SIGVET** – Project University.
 
 ### 🌱 Currently Learning
 
