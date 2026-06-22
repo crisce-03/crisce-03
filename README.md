@@ -99,27 +99,16 @@ I have experience developing web and desktop applications using technologies suc
 
 
 
-## 📊 GitHub Statistics
+## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crisce-03&theme=tokyonight" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crisce-03&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crisce-03&theme=tokyonight" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats de Alkeys" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&hide_border=true" alt="Racha de Alkeys" width="49%" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crisce-03&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crisce-03&theme=tokyonight&utcOffset=-6" width="48%" />
-</p>
+<br/>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝
-</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" width="49%" />
 
-<p align="center">
-  <a href="https://github.com/crisce-03" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <a href="https://www.instagram.com/crisce_03/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-</p>
+</div>
+
