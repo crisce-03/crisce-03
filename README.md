@@ -104,7 +104,7 @@ I have experience developing web and desktop applications using technologies suc
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats de Alkeys" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&hide_border=true" alt="Racha de Alkeys" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeys&theme=tokyonight&hide_border=true" alt="Racha de Alkeys" width="49%" />
 
 <br/>
 
