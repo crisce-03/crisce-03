@@ -93,15 +93,42 @@ My Skills
 
 
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&hide_border=true" alt="Racha de Cristopher" width="49%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" width="49%" />
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/crisce-03">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/TU-USUARIO">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/TU-USUARIO">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/TU-USUARIO">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:cristophercerritos0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
