@@ -5,11 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Computer+Science+Student;Full+Stack+Enthusiast;React+%26+GO+Developer;Always+learning+new+things">
   </a>
 </p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=crisce-03&label=Profile%20views&color=0047AB&style=plastic?" alt="crisce-03" height="25px" width="160px"/> 
-</p>
-
 ---
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About Me
