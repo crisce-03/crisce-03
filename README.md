@@ -96,16 +96,15 @@ I have experience developing web and desktop applications using technologies suc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="400" height="170" src="https://github-readme-stats.vercel.app/api?username=crisce-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="400" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&hide_border=true"/>
+<img width="820" src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ## 🌐 Connect with Me
 
 <p align="center">
