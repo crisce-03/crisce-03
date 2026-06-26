@@ -8,8 +8,6 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About Me
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp4NnpmOXdnNHpsdml1eWM5M2NpMWkyZHVtM2NlejUwbmd1NmowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" align="right" width="250px">
-
 I am a **Software Development Engineering student** at the **Catholic University of El Salvador (UNICAES)** with a strong interest in **Full Stack Development**, software architecture, and database design.
 
 I have experience developing web and desktop applications using technologies such as **React, ASP.NET, Node.js, Express, Laravel, Java, C#, SQL Server, PostgreSQL and Mysql**.
