@@ -100,7 +100,7 @@ I have experience developing web and desktop applications using technologies suc
 
 <img width="400" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisce-03&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
 <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&hide_border=true"/>
 
