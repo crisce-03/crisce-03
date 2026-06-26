@@ -105,6 +105,8 @@ I have experience developing web and desktop applications using technologies suc
 <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=crisce-03&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+
 ## 🌐 Connect with Me
 
 <p align="center">
