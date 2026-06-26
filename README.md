@@ -10,7 +10,7 @@
 
 I am a **Software Development Engineering student** at the **Catholic University of El Salvador (UNICAES)** with a strong interest in **Full Stack Development**, software architecture, and database design.
 
-I have experience developing web and desktop applications using technologies such as **React, ASP.NET, Node.js, Express, Laravel, Java, C#, SQL Server, PostgreSQL and Mysql**.
+I have experience developing web and desktop applications using different technologies.
 
 ### 🚀 Current Projects
 
@@ -28,6 +28,7 @@ I have experience developing web and desktop applications using technologies suc
 
 - Full Stack Development
 - Backend Engineering
+- Fronted Design
 - Database Design
 - Web Application Development
 - Open Source Contributions
