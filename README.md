@@ -47,7 +47,7 @@ I have experience developing web and desktop applications using technologies suc
 
 <br clear="right">
 <br clear="right">
-## My Skills Include
+##  My Skills
 
 
 
