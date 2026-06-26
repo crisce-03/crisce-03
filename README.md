@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Computer+Science+Student;Full+Stack+Enthusiast;React+%26+GO+Developer;Always+learning+new+things">
   </a>
 </p>
----
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About Me
 
