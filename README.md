@@ -49,7 +49,7 @@ I have experience developing web and desktop applications using technologies suc
 <br clear="right">
 
 
-My Skills
+##💻 Tech Stack
 
 <h4> Frontend </h4>
 <p>
